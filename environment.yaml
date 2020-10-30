@@ -1,0 +1,14 @@
+name:
+    SE1_toy_problem
+channels:
+    - conda-forge
+    - default
+dependencies:
+    - python=3.8
+    - dask
+    - jupyterlab
+    - nc-time-axis
+    - netcdf4
+    - matplotlib
+    - numpy
+    - xarray
