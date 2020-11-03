@@ -2,7 +2,8 @@
 
 This repository contains a dataset:
 - SST_and_CO2FLUX.nc
-and a Jupyter Notebook that loads these data and performs some computation:
+
+And a Jupyter Notebook that loads these data and performs some computation:
 - Assignment.ipynb
 
 Please address the questions in the notebook and plan to walk us through your response on the video.
